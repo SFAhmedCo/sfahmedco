@@ -261,7 +261,6 @@ body, html{
 	margin-bottom: 30px;
 }
 
-
 .btn-style-one{
 	border: 2px solid #50cf02;;
 	text-transform: uppercase;
@@ -271,8 +270,6 @@ body, html{
 	font-weight: 600;
 	font-size: 16px;
 }
-
-
 .btn-style-one:hover{
 	background: #50cf02;;
 	color: #FFFFFF;
