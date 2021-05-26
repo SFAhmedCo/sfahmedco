@@ -20,7 +20,11 @@ body {
   overflow-x: hidden !important;
 }
 
-.background {overflow:hidden}
+#background {overflow:hidden;
+	margin-left: auto;
+	margin-right: auto;
+	position: relative;
+}
 
 p {
   font-size: 15px;
@@ -33,7 +37,9 @@ p {
 img {
   width: auto ;
   max-width: 100% ;
+  position: absolute;
   height: auto ;
+  display: inline-block;
 }
 
 
